@@ -1,0 +1,28 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "nome_tarefa": "Estudar HTML"
+    },
+    {
+      "id": 2,
+      "nome_tarefa": "Estudar CSS"
+    },
+    {
+      "id": 3,
+      "nome_tarefa": "Estudar Javascript"
+    },
+    {
+      "id": 4,
+      "nome_tarefa": "Estudar React"
+    },
+    {
+      "id": 5,
+      "nome_tarefa": "Estudar Json-Server"
+    },
+    {
+      "nome_tarefa": "Nova Tarefa",
+      "id": 7
+    }
+  ]
+}
